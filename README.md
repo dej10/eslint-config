@@ -1,9 +1,9 @@
-### Deji's Eslint Config
+# Dej's Eslint Config
 
-#### Description
+### Description
 This package provides a customized ESLint configuration for consistent code style and best practices in JavaScript, TypeScript, and Vue.js projects.
 
-#### Installation
+### Installation
 To install this ESLint configuration package, use the following command:
 
 
@@ -26,8 +26,7 @@ yarn add dej10/eslint-config
 
 
 
-
-#### Usage
+### Usage
 To use this configuration in your project, create an `.eslintrc.js` file in the root directory of your project and extend this configuration:
 
 ```javascript
@@ -38,5 +37,5 @@ module.exports = {
 };
 
 ```
-NB: Copy the .prettierrc file from this (repository)[https://github.com/dej10/eslint-config/blob/main/.prettierrc] into your project folder
+NB: Copy the .prettierrc file from this [repository](https://github.com/dej10/eslint-config/blob/main/.prettierrc) into your project folder
 
