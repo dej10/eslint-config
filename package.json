@@ -1,6 +1,6 @@
 {
   "name": "@dej10/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides a customized ESLint configuration for consistent code style and best practices in JavaScript, TypeScript, and Vue.js projects.",
   "main": "index.js",
   "scripts": {
@@ -33,12 +33,12 @@
     "vue-eslint-parser": "9.3.0",
     "prettier": "2.8.8"
   },
-    "peerDependencies": {
+  "peerDependencies": {
     "eslint": "8.42.0",
     "prettier": "2.8.8"
   },
   "packageManager": "pnpm@8.7.5",
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/dej10/eslint-config.git"
   },
@@ -47,5 +47,4 @@
   },
   "homepage": "https://github.com/dej10/eslint-config#readme",
   "license": "MIT"
-  
 }
