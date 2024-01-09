@@ -1,6 +1,6 @@
 {
   "name": "@dej10/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package provides a customized ESLint configuration for consistent code style and best practices in JavaScript, TypeScript, and Vue.js projects.",
   "main": "index.js",
   "scripts": {
