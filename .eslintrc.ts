@@ -1,4 +1,8 @@
-module.exports = {
+import { Linter } from 'eslint';
+
+type ESLintConfig = Linter.Config;
+
+const eslintrc: ESLintConfig = {
   env: {
     node: true,
     browser: true
@@ -89,3 +93,5 @@ module.exports = {
     sourceType: 'module',
   }
 }
+
+export default eslintrc;
